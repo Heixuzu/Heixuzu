@@ -47,23 +47,9 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
 
-
- 
-
 <br>
 </p>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
 </div>
 
 
