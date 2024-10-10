@@ -1,5 +1,5 @@
 <p align="center"> 
-<h1 align="center">Hi 👋, I'm Heidy Mina</h1>
+<h1 align="center"> ¡Hola! 👋, soy Heidy Mina</h1>
 </p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
@@ -10,13 +10,10 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- 🌱 Estoy aprendiendo Testeo de software y automatización
+- 💡 Me gusta el desarrollo Front-End con React
+- 💬 Pregúntame sobre Serial Experiments Lain
+- ⚡ Fun fact: Gran fan del cyberpunk, synthwave y el goth
 
 <br>
 
