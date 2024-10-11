@@ -3,7 +3,7 @@
 </p>
 
 **About me**
-[![GIF divertido]([https://ejemplo.com/mi-gif.gif](https://66.media.tumblr.com/tumblr_ma10sbRx8L1rfjowdo1_500.gif))
+
 
 
 - 🌱 Estoy aprendiendo Testeo de software y automatización
