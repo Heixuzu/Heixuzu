@@ -16,11 +16,11 @@
 
 - **Languages**:
   
-  [![My Skills](https://skillicons.dev/icons?i=java,scala)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,scala)](https://skillicons.dev)
   
 - **Front-End Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=react,js,css,html,threejs,vite)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,css,html,threejs,vite)](https://skillicons.dev)
 
 - **Softwares and Tools**:
 
