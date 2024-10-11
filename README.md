@@ -33,18 +33,4 @@
 </div>
 
 
-
------
-
-<h3 align="center" >Connect with me 🤝 </h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
-  </a>
-</p>
-
-
-	
-
 </div>
