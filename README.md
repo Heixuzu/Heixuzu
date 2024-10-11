@@ -25,7 +25,7 @@
 
 - **Softwares and Tools**:
 
-   [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,selenium,docker,nodejs)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,selenium,docker,nodejs,aws)](https://skillicons.dev)
 
 
 <br>
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
 </p>
 
