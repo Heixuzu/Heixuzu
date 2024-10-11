@@ -1,5 +1,5 @@
 <p align="center"> 
-<h1 align="center"> ¡Hola! 👋, soy Heidy Mina</h1>
+<h1 align="center"> ¡Hola! 👋, soy Heidy</h1>
 </p>
 
 **About me**
