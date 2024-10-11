@@ -1,8 +1,5 @@
 <p align="center"> 
-<h1 align="center"> ¡Hola!                             ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ, soy Heidy</h1>
+<h1 align="center"> ¡Hola! ♡, soy Heidy</h1>
 </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
