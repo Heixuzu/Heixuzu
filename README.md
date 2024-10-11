@@ -2,7 +2,8 @@
 <h1 align="center"> ¡Hola! 👋, soy Heidy Mina</h1>
 </p>
 	
-## <picture><img src = "[https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png](https://66.media.tumblr.com/tumblr_ma10sbRx8L1rfjowdo1_500.gif)" width =40px></picture> **About me**
+## <img src = "[https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png](https://66.media.tumblr.com/tumblr_ma10sbRx8L1rfjowdo1_500.gif)" width =40px>**About me**
+![GIF divertido]([https://ejemplo.com/mi-gif.gif](https://66.media.tumblr.com/tumblr_ma10sbRx8L1rfjowdo1_500.gif))
 
 
 - 🌱 Estoy aprendiendo Testeo de software y automatización
