@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🌱 Estoy aprendiendo Testeo de software y automatización
+- 🌱 Recientemente me he certificado en Testeo de software y automatización
 - 💡 Me gusta el desarrollo Front-End con React
 - 💬 Pregúntame sobre Serial Experiments Lain
 - ⚡ Fun fact: Gran fan del cyberpunk, synthwave y el goth
